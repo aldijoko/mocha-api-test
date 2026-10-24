@@ -1,0 +1,52 @@
+{
+  "baseUrl": "https://belajar-bareng.onrender.com",
+  "executedAt": "2026-10-24T15:45:46.274Z",
+  "totalDurationMs": 4385,
+  "total": 7,
+  "passed": 7,
+  "failed": 0,
+  "results": [
+    {
+      "title": "POST Login - berhasil login dan menyimpan token",
+      "state": "passed",
+      "durationMs": 335,
+      "error": null
+    },
+    {
+      "title": "POST Login - negative case: password salah",
+      "state": "passed",
+      "durationMs": 735,
+      "error": null
+    },
+    {
+      "title": "POST Login - negative case: username dan password kosong",
+      "state": "passed",
+      "durationMs": 332,
+      "error": null
+    },
+    {
+      "title": "POST Login - negative case: tanpa password",
+      "state": "passed",
+      "durationMs": 317,
+      "error": null
+    },
+    {
+      "title": "GET User - menampilkan daftar user",
+      "state": "passed",
+      "durationMs": 479,
+      "error": null
+    },
+    {
+      "title": "POST Add User - positive case: data valid",
+      "state": "passed",
+      "durationMs": 1074,
+      "error": null
+    },
+    {
+      "title": "POST Add User - negative case: tanpa username",
+      "state": "passed",
+      "durationMs": 731,
+      "error": null
+    }
+  ]
+}
